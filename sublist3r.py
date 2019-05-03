@@ -602,7 +602,7 @@ class DNSdumpster(enumratorBaseThreaded):
     def check_host(self, host):
         is_valid = False
         Resolver = dns.resolver.Resolver()
-        Resolver.nameservers = ['8.8.8.8', '8.8.4.4']
+        Resolver.nameservers = ['8.8.8.8', '8.8.4.4', '1.1.1.1', '1.0.0.1', '223.5.5.5', '223.6.6.6']
         self.lock.acquire()
         try:
             ip = Resolver.query(host, 'A')[0].to_text()
