@@ -1,0 +1,76 @@
+2019-12
+Contributor(s): 
+Carl Pearson
+    - Updated README to reference new -q option- Added check to a few more output statements to respect silent option
+- - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+
+2019-10
+Contributor(s): 
+fleetcaptain
+    Update README.md
+    Merge branch 'master' of https://github.com/fleetcaptain/Turbolist3rfixing conflicts
+    Merge branch 'dev'Github didn't like web PR so following manual instructions
+    Update README.mdUpdate README to reflect only dnslib is needed now
+- - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+
+2019-08
+Contributor(s): 
+fleetcaptain
+    Update README.mdAdd clarification about subbrute
+    Merge branch 'master' of https://github.com/fleetcaptain/Turbolist3r
+- - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+
+2019-06
+Contributor(s): 
+fleetcaptain
+    Update README.md
+    Update README.md
+    New feature: DNS servers/resolvers can now be loaded from a file. Use the command line option -r/--resolvers to specify the path to the resolvers file.Enter one DNS server IP address per line.
+- - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+
+2019-03
+Contributor(s): 
+fleetcaptain
+    Merge branch 'master' of https://github.com/fleetcaptain/Turbolist3r
+- - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+
+2019-01
+Contributor(s): 
+fleetcaptain
+    Update README.mdUpdate first screenshot to reflect correct option usage
+    Update README.mdAdded help for new options
+- - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+
+2018-07
+Contributor(s): 
+fleetcaptain
+    Merge pull request #3 from Damian89/masterMajor bugfixes
+- - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+
+2018-06
+Contributor(s): 
+Damian Schwyrz
+fleetcaptain
+    - Added cloudflare resolvers- Fixed deadlock based on https://github.com/persebek/Sublist3r/commit/75144adaa62afb06ea3448e1212019bcbdcb1db9
+    Update README.mdFixed formatting issue
+    - Added a debugging option (--debug) that prints verbose DNS information as it is processed during the analysis module (-a)- Fixed a bug where CNAME records could be incorrectly reported as A records
+    Multiple updates:- Added debug function (--debug) to print verbose DNS information- Fixed a bug where CNAME records could be incorrectly reported as A records
+- - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+
+2018-01
+Contributor(s): 
+fleetcaptain
+    Update README.md
+    Update README.mdAdded screenshots, updated Credits
+    Update README.md
+    Update README.md
+- - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
